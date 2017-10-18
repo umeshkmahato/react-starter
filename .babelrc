@@ -1,0 +1,6 @@
+// This will tell Babel to use the presets mentioned below
+{
+    "presets": [
+        "env", "react"
+    ]
+}
